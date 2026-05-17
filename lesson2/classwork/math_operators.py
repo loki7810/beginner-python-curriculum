@@ -7,12 +7,12 @@ print(15 % 2) # to find remainder
 print(2 ** 3) # two to the power of 3 
 
 
-# print("a + b = ", a + b)
+# print("a + b =", a + b)
 a = 8 
 b = 3
 print(a + b)
 print(a ** b)
 
-x=int(input("Enter a number:"))
-y=float(input("Enter another number"))
-print( x + y)
+x=int(input("Enter a number: "))
+y=float(input("Enter another number: "))
+print("Sum is", x + y)
