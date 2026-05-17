@@ -20,3 +20,7 @@ print("Sum is", x + y)
 a=int(input("Enter a number: "))
 b = int(input("Enter a number: "))
 print("product is", a * b)
+
+c=int(input("enter A number: "))
+d=int(input("Enter another number:"))
+print( "Difference is", c - d)
