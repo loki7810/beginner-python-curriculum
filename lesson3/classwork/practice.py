@@ -1,13 +1,22 @@
 # Problem 1
 # Ask the user to enter their height in centimeters.
 # Print "Tall" if the height is greater than 170, otherwise print "Short".
+height = int(input("what is your height in centermeters"))
+if height > 170:
+    print("you are tall!")
+else:
+    print("you are short")
 
 
 
 # Problem 2
 # Ask the user for their age.
 # If they are 18 or older, print "Adult", else print "Minor".
-
+age = int(input("what is your age"))
+if age >= 18:
+    print("Adult")
+else:
+    print("minor")
 
 
 # Problem 3
