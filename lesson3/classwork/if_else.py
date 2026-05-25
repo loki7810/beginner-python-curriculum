@@ -23,7 +23,7 @@ elif grade >= 70:
 elif grade >= 60:
     print("you got a d")
 else:
-    print("you failed")
+    print("you failed bwahahahahahahaha >:)))")
 print("grading complete")    
 
 

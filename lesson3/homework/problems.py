@@ -1,6 +1,11 @@
 # Problem 1
 # Ask the user to enter a number.
 # Print "Even" if the number is divisible by 2, otherwise print "Odd".
+num=int(input("enter a number "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("odd")
 
 
 
@@ -8,6 +13,25 @@
 # Ask the user for the day of the week (all lowercase).
 # Print "Weekend" if the day is "saturday" or "sunday",
 # else print "Weekday".
+day=str(input("what day of the week is it?"))
+if day == "saturday":
+    print("weekend")
+elif day == "monday":
+    print("weekday")
+elif day == "tuesday":
+    print("weekday")
+elif day == "wenesday":
+    print("weekday")
+elif day == "thursday":
+    print("weekday")
+elif day == "Friday":
+    print("weekday")
+elif day == "saturday":
+    print("weekend")
+else:
+    print("there is no such day ")
+
+
 
 
 
@@ -15,6 +39,16 @@
 # Generate a random number between 1 and 10 (inclusive).
 # Ask the user to guess the number.
 # Print "Correct!" if the guess matches the random number, else print "Try again!".
+numb = int(input("i am guessing a number from 1 to 10. you have 1 try to get it right"))
+import random # must import the random moudle to use random
+num=random.randint(1, 10) # first and last means the boundries for the random number.
+print(num)
+if num == numb:
+    print("Correct ")
+if num != numb:
+        print("Try again! :'()")
+
+
 
 
 
