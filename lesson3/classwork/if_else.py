@@ -3,7 +3,7 @@ age = int(input("what is your age? "))
 if age >= 18:
     print("you can vote!")
 else:
-    print("no vote!")
+    print("you can't vote :o")
 print("vote check complete")
 #if/else is to use to choose one of 2 paths
 temp = int(input("what is the temperture outside "))
