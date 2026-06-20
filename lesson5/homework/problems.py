@@ -49,6 +49,8 @@ print(random_pl)
 # Print the one in the middle using len().
 # Then remove the first password in the list and print it.
 passwwords = ["Iamsmart", "himynameismarcus", "K9#mP7$qL2@vN8*jR5", "qwerty54765**", "Iampoor2348967", "erghieru123$$$"]
+last_passwwords = len(passwwords) -4
+print(passwwords[last_passwwords])
 
 
 
