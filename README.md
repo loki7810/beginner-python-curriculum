@@ -4,7 +4,7 @@
 This curriculum is designed for absolute beginners in Python programming, gradually introducing concepts across 10 lessons.  
 It includes **practice problems**, **examples**, and **homework** to reinforce learning.
 
-The lessons cover:  
+ The lessons cover:  
 1. Printing, variables, importing files  
 2. Casting, math operators, user input, `for` loops  
 3. Comparison operators, `if/else`, modulo, random numbers  

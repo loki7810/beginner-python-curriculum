@@ -15,8 +15,7 @@ counter = 0
 for i in range(len(numbers)):
     item = numbers[i]
     if item:
-print(numbers)
-
+        print(numbers)
 
 
 
