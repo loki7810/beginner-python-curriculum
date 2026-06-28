@@ -1,7 +1,7 @@
 # Sova Coding Beginner Python Curriculum
 
 ## Overview
-This curriculum is designed for absolute beginners in Python programming, gradually introducing concepts across 10 lessons.  
+This curriculum is designed for absolute beeginners in Python programming, gradually introducing concepts across 10 lessons.  
 It includes **practice problems**, **examples**, and **homework** to reinforce learning.
 
  The lessons cover:  

@@ -3,7 +3,6 @@
 numbers = [10, 32, 27, 8, 50]
 
 
-
 # Problem 2
 # Find and print the sum of all the numbers less than -10 in the list.
 numbers = [-5, -20, -11, 0, 4, -15]
